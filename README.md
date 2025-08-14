@@ -16,4 +16,4 @@ Algorithms: DFS, BFS, Dijkstra’s
 Visual Representation :
 
 
-<img width="621" height="762" alt="image" src="https://github.com/user-attachments/assets/39708692-0787-4383-b865-07f0fc695acf" />
+<img width="628" height="773" alt="image" src="https://github.com/user-attachments/assets/53913125-7fd8-4a00-bd76-d002842afba2" />
