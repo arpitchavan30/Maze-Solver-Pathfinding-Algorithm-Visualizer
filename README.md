@@ -9,8 +9,11 @@ Interactive Target Selection – Click on any grid cell to set a custom target l
 Execution Timer – Measures algorithm runtime to compare performance.
 Reset & Regenerate Maze – Try multiple maze layouts without restarting.
 
-##Tech Stack
-
-Language: Java
-UI Library: Swing
+Tech Stack:- 
+Java- Swing
 Algorithms: DFS, BFS, Dijkstra’s
+
+Visual Representation :
+
+
+<img width="621" height="762" alt="image" src="https://github.com/user-attachments/assets/39708692-0787-4383-b865-07f0fc695acf" />
